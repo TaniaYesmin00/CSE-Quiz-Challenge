@@ -13,15 +13,6 @@
 
 A polished desktop quiz game for Computer Science and Engineering students, built with **Python** and **Pygame**. Answer CSE questions against the clock, build streaks, protect your three lives, and chase a new personal best.
 
-<!--
-SCREENSHOTS: run the game, take screenshots, save them in docs/screenshots/ and
-uncomment the block below.
-
-<p align="center">
-  <img src="docs/screenshots/menu.png" width="49%" alt="Start menu">
-  <img src="docs/screenshots/quiz.png" width="49%" alt="Quiz screen">
-</p>
--->
 
 ## Features
 
